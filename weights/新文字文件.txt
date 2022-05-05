@@ -1,0 +1,5 @@
+python tools/demo.py --gpu 0 --view --source_type video --demo_data_path ./demo/source/RGB1_1230_2.avi --weights ./weights/0114weight.pth
+
+python tools/demo.py --gpu 0 --view --weights ./weights/0114weight.pth
+
+python tools/demo.py --gpu 0 --view --source_type video --weights ./weights/0114weight.pth
