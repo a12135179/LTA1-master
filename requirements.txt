@@ -1,0 +1,54 @@
+addict==2.4.0
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci_310/cffi_1642682485096/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama==0.4.4
+cryptography @ file:///C:/ci/cryptography_1639414690059/work
+cycler==0.11.0
+Cython==0.29.26
+dataclasses==0.6
+fonttools==4.28.5
+future==0.18.2
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+imageio==2.13.5
+joblib==1.1.0
+kiwisolver==1.3.2
+matplotlib==3.5.1
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1634106873805/work
+olefile==0.46
+opencv-python==4.5.5.62
+packaging==21.3
+pandas==1.3.5
+Pillow==8.4.0
+prefetch-generator==1.0.1
+protobuf==3.19.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.6
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil==2.8.2
+pytorch-warmup==0.0.4
+pytz==2021.3
+PyYAML==6.0
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+scikit-learn==1.0.2
+scipy==1.7.3
+seaborn==0.11.2
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tensorboardX==2.4.1
+termcolor==1.1.0
+threadpoolctl==3.0.0
+torch==1.11.0
+torchaudio==0.11.0
+torchvision==0.12.0
+tqdm==4.62.3
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3 @ file:///C:/ci/urllib3_1650639842077/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+yacs==0.1.8
+yapf==0.32.0
